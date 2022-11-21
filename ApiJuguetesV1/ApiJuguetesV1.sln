@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiJuguetesV1", "ApiJuguetesV1\ApiJuguetesV1.csproj", "{907283E8-C623-4F06-B561-C01BCF6715DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "Db\Db.csproj", "{2250CEFA-C6D8-4AB3-8CDF-E4D9BD88C47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{B30D9D54-F98B-4142-837B-3095EF07C36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907283E8-C623-4F06-B561-C01BCF6715DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907283E8-C623-4F06-B561-C01BCF6715DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907283E8-C623-4F06-B561-C01BCF6715DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907283E8-C623-4F06-B561-C01BCF6715DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2250CEFA-C6D8-4AB3-8CDF-E4D9BD88C47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2250CEFA-C6D8-4AB3-8CDF-E4D9BD88C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2250CEFA-C6D8-4AB3-8CDF-E4D9BD88C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2250CEFA-C6D8-4AB3-8CDF-E4D9BD88C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30D9D54-F98B-4142-837B-3095EF07C36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30D9D54-F98B-4142-837B-3095EF07C36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30D9D54-F98B-4142-837B-3095EF07C36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30D9D54-F98B-4142-837B-3095EF07C36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {913A4853-5746-40AF-A45E-8E051EEC6A41}
+	EndGlobalSection
+EndGlobal

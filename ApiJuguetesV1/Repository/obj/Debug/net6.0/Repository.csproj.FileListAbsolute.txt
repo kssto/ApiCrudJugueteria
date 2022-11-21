@@ -1,0 +1,15 @@
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\bin\Debug\net6.0\Db.dll
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\bin\Debug\net6.0\Db.pdb
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\rulis\source\repos\ApiJuguetesV1\Repository\obj\Debug\net6.0\ref\Repository.dll

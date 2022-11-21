@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiJuguetesV1.props" />
+</Project>
